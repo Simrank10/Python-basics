@@ -1,0 +1,15 @@
+no1 = input("Enter a no.: ")
+no2 = input("Enter a no.: ")
+sum = int(no1) + int(no2)
+print(sum)
+
+no = input("Enter a 2 digit number: ")
+first_digit = int(no[0])
+second_digit = int(no[1])
+print("Sum of digits: ", first_digit + second_digit)
+print()
+
+no = input("Enter a 2 digit number: ")
+first_digit = int(no[0])
+second_digit = int(no[1])
+print("Sum of digits: ", first_digit + second_digit)
