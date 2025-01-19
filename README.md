@@ -1,4 +1,4 @@
-# Python-basics
+# Python basics
 
 This repository is a personal collection of Python programs and examples created while learning Python programming from scratch. The focus is on hands-on practice, covering fundamental concepts and building a strong foundation in coding.
 
