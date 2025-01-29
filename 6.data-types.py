@@ -11,7 +11,6 @@ That's how hex and oct num are printed...
 """
 
 # 2.
-print()
 print("INTEGER NUMBERS")
 var_1 = 127482942830429734829891801
 var_2 = 100
