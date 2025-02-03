@@ -5,23 +5,35 @@ OUTPUT-
 Arithmetic sum:  10
 """
 
+# 2.
 print("Arithmetic subtraction: ", 8 - 2)
-print()
+
+
+# 3.
 print("Arithmetic multiplication: ", 8*2)
-print()
+
+
+# 4.
 print("Arithmetic exponential: ", 8**2)
-print()
+
+# 5.
 print("Arithmetic division: ", 8/2)
-print()
+
+
+#6. 
 print("Arithmetic modulus: ", 8%2)
-print()
+
+
+# 7.
 print("Arithmetic floor division: ", 8//2)
-print()
+
+# 8.
 print("using PEMDAS (PARENTHESIS OF EXPONENTIAL, MULTIPLICATION, DIVISION, ADDITION AND SUBTRACTION)")
 print("Solution of 5 + 2 * 3 - 1 + 10/5 : ", 5 + 2 * 3 - 1 + 10/5)
-print()
+
+
+# 9.
 print("Solution of 5 + 2 * (3 - 1) + 10/5 : ", 5 + 2 * (3 - 1) + 10/5)
-print()
 
 
 print("BMI calculator")
