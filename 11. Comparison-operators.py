@@ -11,8 +11,12 @@ print("Equal to operator -")
 print("y == 10 : ", y == 10)
 print("y == 100 : ", y == 100)
 print("(y+1000) == 100 : ", (y+1000) == 100)
-print()
+"""
+OUTPUT -
 
+"""
+
+# 3. 
 print("Not equal to operator -")
 print("y != 50 : ", y != 50)
 print("y != 100 : ", y != 100)
