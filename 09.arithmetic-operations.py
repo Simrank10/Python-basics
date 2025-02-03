@@ -1,6 +1,10 @@
-print()
+# 1.
 print("Arithmetic sum: ", 8 + 2)
-print()
+"""
+OUTPUT-
+Arithmetic sum:  10
+"""
+
 print("Arithmetic subtraction: ", 8 - 2)
 print()
 print("Arithmetic multiplication: ", 8*2)
