@@ -1,6 +1,12 @@
+# 1.
 y = 100
 print("y = ", y)
-print()
+"""
+OUTPUT -
+y =  100
+"""
+
+# 2.
 print("Equal to operator -")
 print("y == 10 : ", y == 10)
 print("y == 100 : ", y == 100)
