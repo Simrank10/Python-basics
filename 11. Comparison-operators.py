@@ -52,6 +52,11 @@ print("(y+10)< 100 : ", (y+10)< 100)
 OUTPUT -
 
 """
+
+# 7. 
 print("Less than or equal to operator - ")
 print("y <= 9 : ", y <= 9)
-print()
+"""
+OUTPUT -
+
+"""
