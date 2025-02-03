@@ -63,6 +63,7 @@ OUTPUT -
 Solution of 5 + 2 * (3 - 1) + 10/5 :  11.0
 """
 
+# 10. BMI Calculator -
 
 print("BMI calculator")
 height_mtrs = float(input("Enter your height in cms: "))
@@ -70,3 +71,10 @@ height = height_mtrs/100
 weight = int(input("Enter your weight in kgs: "))
 BMI = weight/(height)**2
 print("your BMI is: ", BMI)
+"""
+OUTPUT -
+BMI calculator
+Enter your height in cms: 180
+Enter your weight in kgs: 60
+your BMI is:  18.51851851851852
+"""
