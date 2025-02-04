@@ -1,8 +1,16 @@
+# 1.
 g = 12
 h = 12
 print("g is h : ", g is h)
 print("id(g) : ", id(g))
 print("id(h) : ", id(h))
+"""
+OUTPUT -
+g is h :  True
+id(g) :  1832069261968
+id(h) :  1832069261968
+"""
+
 
 a = 4
 b ='4'
