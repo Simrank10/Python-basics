@@ -24,19 +24,31 @@ id(a) :  1832069261712
 id(b) :  1832074960688
 """
 
+# 3.
 x = 24
 print("id(x) : ", id(x))
 x = 19
 print("id(x) which got overwritten : ", id(x))
-print()
+"""
+OUTPUT -
+id(x) :  1832069262352
+id(x) which got overwritten :  1832069262192
+"""
 
+# 4.
 p = 7
 q = 7.0
 print("p is q : ", p is q)
 print("id(p) : ", id(p))
 print("id(q) : ", id(q))
-print()
+"""
+OUTPUT -
+p is q :  False
+id(p) :  1832069261808
+id(q) :  1832071769104
+"""
 
+# 5.
 o = 3
 print("id(o) : ", id(o))
 o = 8
