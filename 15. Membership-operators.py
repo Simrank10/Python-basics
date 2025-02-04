@@ -33,11 +33,17 @@ print("hira in name : ", "hira" in name)
 name = "Mahira Tripathi"
 print(id(name[1]))
 
+name = "Mahira Tripathi"
 print(id(name[5]))
+
+name = "Mahira Tripathi"
 print(id(name[11]))
+
+name = "Mahira Tripathi"
 print(id(name[10]))
 # if you could see memory location for "a" is same for all a's present in name 
 print(id("p"))
+
 
 roll_no = [12, 24, 56, 79, 10, 2, 1]
 print("13 in roll_no : ", 13 in roll_no)
