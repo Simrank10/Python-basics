@@ -55,3 +55,10 @@ o = 8
 print("o is o : ", o is o) # next o will overwrite the previous o value
 print("id(o) : ", id(o))
 print("id(o) : ", id(o))
+"""
+OUTPUT -
+id(o) :  1832069261680
+o is o :  True
+id(o) :  1832069261840
+id(o) :  1832069261840
+"""
