@@ -6,13 +6,33 @@ OUTPUT -
 m in name :  False
 """
 
+# 2.
+name = "Mahira Tripathi"
 print("M in name : ", "M" in name)
+"""
+OUTPUT -
+M in name :  True
+"""
+
+# 3.
+name = "Mahira Tripathi"
 print("space in name : ", " " in name)
+
+name = "Mahira Tripathi"
 print("a in name : ", "a" in name)
+
+name = "Mahira Tripathi"
 print("pat in name : ", "pat" in name)
+
+name = "Mahira Tripathi"
 print("tripathi not in name : ", "tripathi" not in name)
+
+name = "Mahira Tripathi"
 print("hira in name : ", "hira" in name)
+
+name = "Mahira Tripathi"
 print(id(name[1]))
+
 print(id(name[5]))
 print(id(name[11]))
 print(id(name[10]))
