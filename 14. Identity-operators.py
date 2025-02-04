@@ -18,7 +18,7 @@ print("a is b : ", a is b)
 print("id(a) : ", id(a))
 print("id(b) : ", id(b))
 """
-OUTOUT -
+OUTPUT -
 a is b :  False
 id(a) :  1832069261712
 id(b) :  1832074960688
