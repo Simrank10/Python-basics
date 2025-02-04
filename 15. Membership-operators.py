@@ -17,22 +17,44 @@ M in name :  True
 # 3.
 name = "Mahira Tripathi"
 print("space in name : ", " " in name)
+"""
+OUTPUT -
+
+"""
 
 # 4.
 name = "Mahira Tripathi"
 print("a in name : ", "a" in name)
+"""
+OUTPUT -
+
+"""
 
 # 5.
 name = "Mahira Tripathi"
 print("pat in name : ", "pat" in name)
+"""
+OUTPUT -
+
+"""
 
 # 6.
 name = "Mahira Tripathi"
 print("tripathi not in name : ", "tripathi" not in name)
+"""
+OUTPUT -
 
+"""
+
+# 7.
 name = "Mahira Tripathi"
 print("hira in name : ", "hira" in name)
+"""
+OUTPUT -
 
+"""
+
+# 8.
 name = "Mahira Tripathi"
 print(id(name[1]))
 
