@@ -11,13 +11,18 @@ id(g) :  1832069261968
 id(h) :  1832069261968
 """
 
-
+# 2.
 a = 4
 b ='4'
 print("a is b : ", a is b)
 print("id(a) : ", id(a))
 print("id(b) : ", id(b))
-print()
+"""
+OUTOUT -
+a is b :  False
+id(a) :  1832069261712
+id(b) :  1832074960688
+"""
 
 x = 24
 print("id(x) : ", id(x))
