@@ -1,5 +1,11 @@
+# 1.
 name = "Mahira Tripathi"
 print("m in name : ", "m" in name)
+"""
+OUTPUT -
+m in name :  False
+"""
+
 print("M in name : ", "M" in name)
 print("space in name : ", " " in name)
 print("a in name : ", "a" in name)
