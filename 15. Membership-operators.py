@@ -59,7 +59,7 @@ name = "Mahira Tripathi"
 print(id(name[1]))
 """
 OUTPUT -
-
+2687214864688
 """
 
 # 9.
@@ -75,15 +75,27 @@ name = "Mahira Tripathi"
 print(id(name[11]))
 """
 OUTPUT -
+2687214864688
+"""
+
+# 11.
+name = "Mahira Tripathi"
+print(id(name[10]))
+# if you could see memory location for "a" is same for all a's present in name
+"""
+OUTPUT -
 
 """
 
+# 12.
 name = "Mahira Tripathi"
-print(id(name[10]))
-# if you could see memory location for "a" is same for all a's present in name 
 print(id("p"))
+"""
+OUTPUT -
 
+"""
 
+# 13.
 roll_no = [12, 24, 56, 79, 10, 2, 1]
 print("13 in roll_no : ", 13 in roll_no)
 print("2 in roll_no : ", 2 in roll_no)
