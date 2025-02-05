@@ -14,3 +14,7 @@ days_left = years_left*365
 weeks_left = years_left*52
 
 print(f"If you live until 90 years old, you have {months_left} months left, {weeks_left} weeks left, {days_left} days left!!!!")
+"""
+OUTPUT -
+If you live until 90 years old, you have 840 months left, 3640 weeks left, 25550 days left!!!!
+"""
