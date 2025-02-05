@@ -43,7 +43,7 @@ name = "Mahira Tripathi"
 print("tripathi not in name : ", "tripathi" not in name)
 """
 OUTPUT -
-
+tripathi not in name :  True
 """
 
 # 7.
