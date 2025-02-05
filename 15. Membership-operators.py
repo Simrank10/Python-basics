@@ -19,7 +19,7 @@ name = "Mahira Tripathi"
 print("space in name : ", " " in name)
 """
 OUTPUT -
-
+space in name :  True
 """
 
 # 4.
@@ -27,7 +27,7 @@ name = "Mahira Tripathi"
 print("a in name : ", "a" in name)
 """
 OUTPUT -
-
+a in name :  True
 """
 
 # 5.
@@ -35,7 +35,7 @@ name = "Mahira Tripathi"
 print("pat in name : ", "pat" in name)
 """
 OUTPUT -
-
+pat in name :  True
 """
 
 # 6.
