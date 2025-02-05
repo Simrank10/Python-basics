@@ -51,18 +51,32 @@ name = "Mahira Tripathi"
 print("hira in name : ", "hira" in name)
 """
 OUTPUT -
-
+hira in name :  True
 """
 
 # 8.
 name = "Mahira Tripathi"
 print(id(name[1]))
+"""
+OUTPUT -
 
+"""
+
+# 9.
 name = "Mahira Tripathi"
 print(id(name[5]))
+"""
+OUTPUT -
 
+"""
+
+# 10.
 name = "Mahira Tripathi"
 print(id(name[11]))
+"""
+OUTPUT -
+
+"""
 
 name = "Mahira Tripathi"
 print(id(name[10]))
