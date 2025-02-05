@@ -6,3 +6,5 @@ BMI = weight/(height * height)
 
 print(BMI)
 print("Your BMI is : ", int(BMI))
+
+""
