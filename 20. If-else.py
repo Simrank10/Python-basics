@@ -23,3 +23,10 @@ else:
     print("Congratulations!, you've cleared your exam.")
     print("Good luck for future endeavours!")
     print("'Result' : PASSED")
+"""
+OUTPUT -
+Enter your marks : 67
+Congratulations!, you've cleared your exam.
+Good luck for future endeavours!
+'Result' : PASSED
+"""
