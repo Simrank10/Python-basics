@@ -1,7 +1,4 @@
-# 1.
-"""
-Nested if statements
-"""
+# 1. Nested if statements
 
 num = int(input("Enter a number : "))
 if num <=100:
@@ -21,8 +18,12 @@ else:
 print()
 
 """
-Nested if, elif and else statements
+OUTPUT -
+Enter a number : 487
+Number is not less than or equal to 100!
 """
+
+# 2. Nested if, elif and else statements
 
 height = int(input("Enter your height in cms : "))
 if height>100:
@@ -39,3 +40,6 @@ else:
     print("You can't ride!")
 
 print("Bye, thanks for choosing us!")
+
+"""
+OUTPUT -
