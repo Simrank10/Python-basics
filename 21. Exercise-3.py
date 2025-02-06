@@ -11,6 +11,6 @@ else:
 
 """
 OUTPUT -
-Enter a number : 2589
-Entered number is odd!
+Enter a number : 258110
+Entered number is even!
 """
