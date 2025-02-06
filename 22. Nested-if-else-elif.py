@@ -45,3 +45,4 @@ print("Bye, thanks for choosing us!")
 OUTPUT -
 Enter your height in cms : 170
 You can ride!
+"""
