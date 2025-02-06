@@ -5,10 +5,13 @@ if fruit == "Apple":
     print("Get it!")
 else:
     print("Get Oranges if available!")
+"""
+OUTPUT -
+Which fruit to get from supermarket? Chikoo
+Get Oranges if available!
+"""
 
-
-print()
-
+# 2.
 marks = float(input("Enter your marks : "))
 
 if marks < 30:
