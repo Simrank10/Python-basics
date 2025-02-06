@@ -1,3 +1,4 @@
+# 1.
 fruit = input("Which fruit to get from supermarket? ")
 
 if fruit == "Apple":
