@@ -53,3 +53,11 @@ print("Thanks for visting, enjoy your ride!")
 
 """
 OUTPUT -
+Welcome to Revalish Amusement Park!
+
+Welcome to the roller coaster ride....
+Get ready for an unforgettable adventure!
+Buckle up and brace yourself for the thrill!
+Double the excitement, double the fun!
+
+"""
