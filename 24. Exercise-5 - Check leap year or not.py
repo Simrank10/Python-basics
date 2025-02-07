@@ -23,5 +23,8 @@ print("Leap year is year which is completely divisible by 4. Also, if year is no
 
 """
 OUTPUT - 
-
+Enter a year you want to check for : 2034
+Okay, Let's check for 2034 year...
+The year 2034 is not a leap year!
+Leap year is year which is completely divisible by 4. Also, if year is not divisible  by 100, its a leap year and if divisible by 100 we check whether it is divisible by 400 too conclude its a leap year
 """
