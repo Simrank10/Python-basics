@@ -60,4 +60,18 @@ Get ready for an unforgettable adventure!
 Buckle up and brace yourself for the thrill!
 Double the excitement, double the fun!
 
+Enter your height in cms : 170
+You can ride!
+
+Enter your age : 20
+Your ticket cost : 350 Rs
+
+Do you want a photo? (Yes/No)Yes
+
+Picture charges : 50 Rs
+
+----Final Bill----
+
+Your total bill amount to pay is 400 Rs
+Thanks for visting, enjoy your ride!
 """
