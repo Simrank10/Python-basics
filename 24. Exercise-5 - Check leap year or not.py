@@ -22,3 +22,6 @@ print("Leap year is year which is completely divisible by 4. Also, if year is no
 
 
 """
+OUTPUT - 
+
+"""
