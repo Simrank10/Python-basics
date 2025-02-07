@@ -25,7 +25,7 @@ print("Being healthy is primary, everything rest comes after and over it.")
 print()
 
 """
-OUTPUT -
+SAMPLE OUTPUT -
 Enter your weight in kgs : 55
 Enter your height in cms : 170
 
