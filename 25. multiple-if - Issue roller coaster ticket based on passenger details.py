@@ -35,7 +35,7 @@ if height > 100:
     
     print()
     want_photo = input("Do you want a photo? (Yes/No)")
-    if want_photo == "Yes":
+    if want_photo == "Yes" or want_photo == "yes" or want_photo == "YES":
         print()
         print("Picture charges : 50 Rs")
         bill_amount += 50
