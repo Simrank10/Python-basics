@@ -1,4 +1,5 @@
 """
+PROBLEM -
 WAP to issue a ticket and bill for a Revalish amusement park's roller coaster ride. 
 People shorter than 100 cm or 3.2 feet cannot ride. 
 For those who qualify, ticket prices depend on age: 
@@ -7,7 +8,7 @@ For those who qualify, ticket prices depend on age:
 • ₹350 for anyone older than 18. 
 If a rider wants pictures, an additional ₹50 is added to the bill.
 """
-print()
+
 print("Welcome to Revalish Amusement Park!")
 print()
 print("Welcome to the roller coaster ride.... \nGet ready for an unforgettable adventure!"
@@ -49,4 +50,6 @@ print("----Final Bill----")
 print()
 print(f"Your total bill amount to pay is {bill_amount} Rs")
 print("Thanks for visting, enjoy your ride!")
-print()
+
+"""
+OUTPUT -
