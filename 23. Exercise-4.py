@@ -26,5 +26,10 @@ print()
 
 """
 OUTPUT -
+Enter your weight in kgs : 55
+Enter your height in cms : 170
 
+Your BMI is 19.0, so you are healthy.
+
+Being healthy is primary, everything rest comes after and over it.
 """
