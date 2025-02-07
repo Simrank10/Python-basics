@@ -25,3 +25,6 @@ print("Being healthy is primary, everything rest comes after and over it.")
 print()
 
 """
+OUTPUT -
+
+"""
