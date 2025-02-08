@@ -58,3 +58,19 @@ print()
 
 """
 SAMPLE OUTPUT -
+Welcome to Patsey's Pizza store!
+
+Choose the pizza size you want to order (Small, Medium or Large) : medium
+
+Medium-sized pizza cost 200 Rs without toppings!
+
+Do you want paneer toppings to your pizza? (Yes/No)Yes    
+
+Paneer toppings on medium-sized pizza charges 50 Rs.
+Medium-sized pizza cost 250 Rs on paneer toppings!!
+
+Do you wish having extra-cheese to your pizza?no     
+
+---------TOTAL BILL--------
+Total amount to be paid for your pizza is 250 Rs
+Thanks for ordering Pizza from us, we bake with love exclusively for you!
