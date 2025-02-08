@@ -74,3 +74,4 @@ Do you wish having extra-cheese to your pizza?no
 ---------TOTAL BILL--------
 Total amount to be paid for your pizza is 250 Rs
 Thanks for ordering Pizza from us, we bake with love exclusively for you!
+"""
