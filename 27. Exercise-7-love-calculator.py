@@ -60,3 +60,13 @@ print("Remember, true friendship goes beyond numbers!")
 
 """
 SAMPLE OUTPUT -
+Let's check the friendship score!
+
+Enter the first name: Devika
+
+Enter the second name: Varsha
+
+Your friendship score is 43%, you are pretty solid pals!
+
+Remember, true friendship goes beyond numbers!
+"""
