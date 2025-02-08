@@ -22,16 +22,13 @@ Instructions:
 print("Let's check the friendship score!")
 print()
 
-# Get user names
 name_1 = input("Enter the first name: ")
 print()
 name_2 = input("Enter the second name: ")
 
-# Convert names to lowercase for uniform counting
 name_1 = name_1.lower()
 name_2 = name_2.lower()
 
-# Count letters for the word "friend"
 f = name_1.count("f") + name_2.count("f")
 r = name_1.count("r") + name_2.count("r")
 i = name_1.count("i") + name_2.count("i")
@@ -40,15 +37,13 @@ n = name_1.count("n") + name_2.count("n")
 d = name_1.count("d") + name_2.count("d")
 friend_count = f + r + i + e + n + d
 
-# Count letters for the word "ship"
 s = name_1.count("s") + name_2.count("s")
 h = name_1.count("h") + name_2.count("h")
-# Count "i" again for the word "ship"
+
 i_ship = name_1.count("i") + name_2.count("i")
 p = name_1.count("p") + name_2.count("p")
 ship_count = s + h + i_ship + p
 
-# Create the friendship score by concatenating the two counts
 friendship_score = int(str(friend_count) + str(ship_count))
 
 print()
