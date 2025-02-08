@@ -1,4 +1,7 @@
-print()
+"""
+Create a 
+
+
 print("Let's check the love score!")
 print()
 name_1 = input("Enter name : ")
