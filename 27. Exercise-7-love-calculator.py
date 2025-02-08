@@ -59,3 +59,4 @@ print("Remember, true friendship goes beyond numbers!")
 
 
 """
+SAMPLE OUTPUT -
