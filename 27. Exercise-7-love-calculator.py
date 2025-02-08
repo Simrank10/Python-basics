@@ -47,7 +47,6 @@ ship_count = s + h + i_ship + p
 friendship_score = int(str(friend_count) + str(ship_count))
 
 print()
-# Display different messages based on the friendship score
 if friendship_score < 10 or friendship_score > 90:
     print(f"Your friendship score is {friendship_score}%, you are best friends forever!")
 elif 40 <= friendship_score <= 60:
