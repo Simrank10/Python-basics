@@ -70,4 +70,5 @@ Enter the second name: Varsha
 Your friendship score is 43%, you are pretty solid pals!
 
 Remember, true friendship goes beyond numbers!
+
 """
