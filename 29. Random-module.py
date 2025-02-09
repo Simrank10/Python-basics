@@ -24,3 +24,6 @@ print(g)
 
 random.shuffle(lst)
 print(lst)
+
+"""
+OUTPUT -
