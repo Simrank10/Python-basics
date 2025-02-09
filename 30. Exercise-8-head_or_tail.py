@@ -25,6 +25,7 @@ else:
 
 """
 SAMPLE OUTPUT -
+
 Choose : heads or tails? heads - 1 tails - 0 0
 
 You choose 0
