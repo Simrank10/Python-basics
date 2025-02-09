@@ -24,3 +24,4 @@ else:
     print("You lost!")
 
 """
+SAMPLE OUTPUT -
