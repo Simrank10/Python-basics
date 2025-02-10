@@ -12,6 +12,7 @@ names = str(input("PLease enter your team members names seperated by comma : "))
 splitted_names = names.split(", ")
 print(splitted_names)
 """
+OUTPUT -
 PLease enter your team members names seperated by comma : varsha, alley, david, petra  
 ['varsha', 'alley', 'david', 'petra']
 """
