@@ -1,3 +1,4 @@
+# 1.
 text = "Welcome to Joey's pizza"
 splitted_text = text.split(" ")
 print(splitted_text)
