@@ -7,6 +7,7 @@ OUTPUT -
 ['Welcome', 'to', "Joey's", 'pizza']
 """
 
+# 2.
 names = str(input("PLease enter your team members names seperated by comma : "))
 splitted_names = names.split(", ")
 print(splitted_names)
