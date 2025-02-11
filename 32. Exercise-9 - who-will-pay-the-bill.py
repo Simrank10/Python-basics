@@ -22,3 +22,6 @@ ALTERNATIVELY, use choice!
 
 person_selected = random.choice(members)
 print(person_selected)
+
+
+"""
