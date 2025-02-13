@@ -21,12 +21,12 @@ ALTERNATIVELY, use choice!
 """
 
 person_selected = random.choice(members)
-print(person_selected)
+print(person_selected) # siya
 
 
 """
 SAMPLE OUTPUT -
-
-
-
+Enter the names seperated with commas : Raghav, Siya, Mahira, Tasha, Devansh
+['Raghav', 'Siya', 'Mahira', 'Tasha', 'Devansh']
+Tasha will pay the bill!
 """
