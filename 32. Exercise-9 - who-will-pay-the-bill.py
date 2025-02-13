@@ -25,3 +25,8 @@ print(person_selected)
 
 
 """
+SAMPLE OUTPUT -
+
+
+
+"""
